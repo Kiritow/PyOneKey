@@ -1,0 +1,7 @@
+{
+    "nodejs" : "https://nodejs.org/dist/v10.15.2/node-v10.15.2-x64.msi",
+    "qqpc" : "https://qd.myapp.com/myapp/qqteam/pcqq/QQ9.0.9_1.exe",
+    "baidunetdisk" : "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/6.7.1.9.exe",
+    "vscode" : "https://aka.ms/win32-x64-user-stable",
+    "git" : "https://github.com/git-for-windows/git/releases/download/v2.21.0.windows.1/Git-2.21.0-64-bit.exe"
+}
